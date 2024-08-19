@@ -1,0 +1,13 @@
+{
+  "name": "sz-node-script-cli",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "node-script develop tool",
+  "main": "index.mjs",
+  "author": "soarant-zlc",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "minimist": "^1.2.8"
+  }
+}
